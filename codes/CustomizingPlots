@@ -1,0 +1,24 @@
+# Plot size
+# figure.figsize:     12, 6.5  # figure size in inches
+
+# Title
+axes.titlesize:  20
+axes.titleweight:  bold
+
+# Axes Labels
+axes.labelsize:  17
+
+# Ticks
+xtick.labelsize: 15
+ytick.labelsize: 15
+xtick.direction:     in
+xtick.major.size:    12     # major tick size in points
+xtick.minor.size:    8       # minor tick size in points
+xtick.top:           True
+ytick.right:         True   # draw ticks on the right side
+ytick.direction:     in
+ytick.major.size:    12     # major tick size in points
+ytick.minor.size:    8      # minor tick size in points
+
+# Legend
+legend.fontsize:      12
