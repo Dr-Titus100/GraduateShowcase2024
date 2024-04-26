@@ -1,2 +1,2 @@
 # GraduateShowcase2024
-This repo contains codes for the results shown on my poster during the graduate student showcase at Boise State University, 2024.
+This public GitHub repository contains codes for the results shown on my poster during the graduate student showcase at Boise State University, which took place on April 10, 2024.
